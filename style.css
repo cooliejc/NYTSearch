@@ -1,4 +1,10 @@
 body {
     width: 960px;
     margin: auto;
+    background-color: #ddd;
+}
+
+.jumbotron {
+background-color: #200057;
+color: #eee;
 }
