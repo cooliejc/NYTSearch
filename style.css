@@ -4,6 +4,13 @@ body {
     background-color: #ddd;
 }
 
+.form {
+    width: 100%;
+}
+.container {
+    width: 960px;
+}
+
 .jumbotron {
 background-color: #200057;
 color: #eee;
